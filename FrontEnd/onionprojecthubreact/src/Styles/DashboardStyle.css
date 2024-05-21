@@ -1,0 +1,9 @@
+.tabela {
+    height: 500px !important;
+    overflow-y: auto !important;
+
+}
+
+.graficos {
+    display: flex !important;
+}

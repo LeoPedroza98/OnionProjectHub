@@ -1,0 +1,17 @@
+D:\victor\estudos\programming\OnionSa\OnionSa.Service\obj\Debug\net6.0\OnionSa.Service.csproj.AssemblyReference.cache
+D:\victor\estudos\programming\OnionSa\OnionSa.Service\obj\Debug\net6.0\OnionSa.Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\victor\estudos\programming\OnionSa\OnionSa.Service\obj\Debug\net6.0\OnionSa.Service.AssemblyInfoInputs.cache
+D:\victor\estudos\programming\OnionSa\OnionSa.Service\obj\Debug\net6.0\OnionSa.Service.AssemblyInfo.cs
+D:\victor\estudos\programming\OnionSa\OnionSa.Service\obj\Debug\net6.0\OnionSa.Service.csproj.CoreCompileInputs.cache
+D:\victor\estudos\programming\OnionSa\OnionSa.Service\bin\Debug\net6.0\OnionSa.Service.deps.json
+D:\victor\estudos\programming\OnionSa\OnionSa.Service\bin\Debug\net6.0\OnionSa.Service.dll
+D:\victor\estudos\programming\OnionSa\OnionSa.Service\bin\Debug\net6.0\OnionSa.Service.pdb
+D:\victor\estudos\programming\OnionSa\OnionSa.Service\bin\Debug\net6.0\OnionSa.Domain.dll
+D:\victor\estudos\programming\OnionSa\OnionSa.Service\bin\Debug\net6.0\OnionSa.Repository.dll
+D:\victor\estudos\programming\OnionSa\OnionSa.Service\bin\Debug\net6.0\OnionSa.Domain.pdb
+D:\victor\estudos\programming\OnionSa\OnionSa.Service\bin\Debug\net6.0\OnionSa.Repository.pdb
+D:\victor\estudos\programming\OnionSa\OnionSa.Service\obj\Debug\net6.0\OnionSa.Service.csproj.CopyComplete
+D:\victor\estudos\programming\OnionSa\OnionSa.Service\obj\Debug\net6.0\OnionSa.Service.dll
+D:\victor\estudos\programming\OnionSa\OnionSa.Service\obj\Debug\net6.0\refint\OnionSa.Service.dll
+D:\victor\estudos\programming\OnionSa\OnionSa.Service\obj\Debug\net6.0\OnionSa.Service.pdb
+D:\victor\estudos\programming\OnionSa\OnionSa.Service\obj\Debug\net6.0\ref\OnionSa.Service.dll

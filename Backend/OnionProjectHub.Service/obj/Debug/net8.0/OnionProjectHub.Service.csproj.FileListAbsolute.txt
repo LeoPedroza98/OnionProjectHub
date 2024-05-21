@@ -1,0 +1,17 @@
+C:\Users\leona\Documents\Pessoal\OnionProjectHub\Backend\OnionProjectHub.Service\bin\Debug\net8.0\OnionProjectHub.Service.deps.json
+C:\Users\leona\Documents\Pessoal\OnionProjectHub\Backend\OnionProjectHub.Service\bin\Debug\net8.0\OnionProjectHub.Service.dll
+C:\Users\leona\Documents\Pessoal\OnionProjectHub\Backend\OnionProjectHub.Service\bin\Debug\net8.0\OnionProjectHub.Service.pdb
+C:\Users\leona\Documents\Pessoal\OnionProjectHub\Backend\OnionProjectHub.Service\bin\Debug\net8.0\OnionProjectHub.Domain.dll
+C:\Users\leona\Documents\Pessoal\OnionProjectHub\Backend\OnionProjectHub.Service\bin\Debug\net8.0\OnionProjectHub.Repository.dll
+C:\Users\leona\Documents\Pessoal\OnionProjectHub\Backend\OnionProjectHub.Service\bin\Debug\net8.0\OnionProjectHub.Domain.pdb
+C:\Users\leona\Documents\Pessoal\OnionProjectHub\Backend\OnionProjectHub.Service\bin\Debug\net8.0\OnionProjectHub.Repository.pdb
+C:\Users\leona\Documents\Pessoal\OnionProjectHub\Backend\OnionProjectHub.Service\obj\Debug\net8.0\OnionProjectHub.Service.csproj.AssemblyReference.cache
+C:\Users\leona\Documents\Pessoal\OnionProjectHub\Backend\OnionProjectHub.Service\obj\Debug\net8.0\OnionProjectHub.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leona\Documents\Pessoal\OnionProjectHub\Backend\OnionProjectHub.Service\obj\Debug\net8.0\OnionProjectHub.Service.AssemblyInfoInputs.cache
+C:\Users\leona\Documents\Pessoal\OnionProjectHub\Backend\OnionProjectHub.Service\obj\Debug\net8.0\OnionProjectHub.Service.AssemblyInfo.cs
+C:\Users\leona\Documents\Pessoal\OnionProjectHub\Backend\OnionProjectHub.Service\obj\Debug\net8.0\OnionProjectHub.Service.csproj.CoreCompileInputs.cache
+C:\Users\leona\Documents\Pessoal\OnionProjectHub\Backend\OnionProjectHub.Service\obj\Debug\net8.0\OnionPro.721A5D33.Up2Date
+C:\Users\leona\Documents\Pessoal\OnionProjectHub\Backend\OnionProjectHub.Service\obj\Debug\net8.0\OnionProjectHub.Service.dll
+C:\Users\leona\Documents\Pessoal\OnionProjectHub\Backend\OnionProjectHub.Service\obj\Debug\net8.0\refint\OnionProjectHub.Service.dll
+C:\Users\leona\Documents\Pessoal\OnionProjectHub\Backend\OnionProjectHub.Service\obj\Debug\net8.0\OnionProjectHub.Service.pdb
+C:\Users\leona\Documents\Pessoal\OnionProjectHub\Backend\OnionProjectHub.Service\obj\Debug\net8.0\ref\OnionProjectHub.Service.dll

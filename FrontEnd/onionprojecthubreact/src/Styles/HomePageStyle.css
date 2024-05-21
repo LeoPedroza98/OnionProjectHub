@@ -1,0 +1,26 @@
+.divPrincipal {
+}
+.row{
+    display: block !important;
+}
+.iconeHome{
+    margin-top: 5vh;
+    margin-left: 4vh;
+    margin-right: 1vh;
+    padding: 1%;
+    color:black;
+    background-color: black;
+    border-radius: 50%;
+}
+.linhaHorizontal{
+    width: 95% !important;
+    margin-left: 5vh;
+    border: solid 2px black !important;
+}
+.texto{
+    margin-left: 5vh !important;
+    text-align: center;
+}
+.onioSaSmall{
+    margin-left: 14vh;
+}

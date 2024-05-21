@@ -1,0 +1,11 @@
+C:\Users\leona\Documents\Pessoal\OnionProjectHub\Backend\OnionProjectHub.Domain\bin\Debug\net8.0\OnionProjectHub.Domain.deps.json
+C:\Users\leona\Documents\Pessoal\OnionProjectHub\Backend\OnionProjectHub.Domain\bin\Debug\net8.0\OnionProjectHub.Domain.dll
+C:\Users\leona\Documents\Pessoal\OnionProjectHub\Backend\OnionProjectHub.Domain\bin\Debug\net8.0\OnionProjectHub.Domain.pdb
+C:\Users\leona\Documents\Pessoal\OnionProjectHub\Backend\OnionProjectHub.Domain\obj\Debug\net8.0\OnionProjectHub.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leona\Documents\Pessoal\OnionProjectHub\Backend\OnionProjectHub.Domain\obj\Debug\net8.0\OnionProjectHub.Domain.AssemblyInfoInputs.cache
+C:\Users\leona\Documents\Pessoal\OnionProjectHub\Backend\OnionProjectHub.Domain\obj\Debug\net8.0\OnionProjectHub.Domain.AssemblyInfo.cs
+C:\Users\leona\Documents\Pessoal\OnionProjectHub\Backend\OnionProjectHub.Domain\obj\Debug\net8.0\OnionProjectHub.Domain.csproj.CoreCompileInputs.cache
+C:\Users\leona\Documents\Pessoal\OnionProjectHub\Backend\OnionProjectHub.Domain\obj\Debug\net8.0\OnionProjectHub.Domain.dll
+C:\Users\leona\Documents\Pessoal\OnionProjectHub\Backend\OnionProjectHub.Domain\obj\Debug\net8.0\refint\OnionProjectHub.Domain.dll
+C:\Users\leona\Documents\Pessoal\OnionProjectHub\Backend\OnionProjectHub.Domain\obj\Debug\net8.0\OnionProjectHub.Domain.pdb
+C:\Users\leona\Documents\Pessoal\OnionProjectHub\Backend\OnionProjectHub.Domain\obj\Debug\net8.0\ref\OnionProjectHub.Domain.dll

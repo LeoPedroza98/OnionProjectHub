@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "OnionSa.Domain/1.0.0": {
+        "runtime": {
+          "OnionSa.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "OnionSa.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

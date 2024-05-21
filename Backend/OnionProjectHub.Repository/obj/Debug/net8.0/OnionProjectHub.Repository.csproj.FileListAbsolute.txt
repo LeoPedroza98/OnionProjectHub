@@ -1,0 +1,17 @@
+C:\Users\leona\Documents\Pessoal\OnionProjectHub\Backend\OnionProjectHub.Repository\bin\Debug\net8.0\OnionProjectHub.Repository.deps.json
+C:\Users\leona\Documents\Pessoal\OnionProjectHub\Backend\OnionProjectHub.Repository\bin\Debug\net8.0\OnionProjectHub.Repository.runtimeconfig.json
+C:\Users\leona\Documents\Pessoal\OnionProjectHub\Backend\OnionProjectHub.Repository\bin\Debug\net8.0\OnionProjectHub.Repository.dll
+C:\Users\leona\Documents\Pessoal\OnionProjectHub\Backend\OnionProjectHub.Repository\bin\Debug\net8.0\OnionProjectHub.Repository.pdb
+C:\Users\leona\Documents\Pessoal\OnionProjectHub\Backend\OnionProjectHub.Repository\bin\Debug\net8.0\OnionProjectHub.Domain.dll
+C:\Users\leona\Documents\Pessoal\OnionProjectHub\Backend\OnionProjectHub.Repository\bin\Debug\net8.0\OnionProjectHub.Domain.pdb
+C:\Users\leona\Documents\Pessoal\OnionProjectHub\Backend\OnionProjectHub.Repository\obj\Debug\net8.0\OnionProjectHub.Repository.csproj.AssemblyReference.cache
+C:\Users\leona\Documents\Pessoal\OnionProjectHub\Backend\OnionProjectHub.Repository\obj\Debug\net8.0\OnionProjectHub.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leona\Documents\Pessoal\OnionProjectHub\Backend\OnionProjectHub.Repository\obj\Debug\net8.0\OnionProjectHub.Repository.AssemblyInfoInputs.cache
+C:\Users\leona\Documents\Pessoal\OnionProjectHub\Backend\OnionProjectHub.Repository\obj\Debug\net8.0\OnionProjectHub.Repository.AssemblyInfo.cs
+C:\Users\leona\Documents\Pessoal\OnionProjectHub\Backend\OnionProjectHub.Repository\obj\Debug\net8.0\OnionProjectHub.Repository.csproj.CoreCompileInputs.cache
+C:\Users\leona\Documents\Pessoal\OnionProjectHub\Backend\OnionProjectHub.Repository\obj\Debug\net8.0\OnionPro.5026D028.Up2Date
+C:\Users\leona\Documents\Pessoal\OnionProjectHub\Backend\OnionProjectHub.Repository\obj\Debug\net8.0\OnionProjectHub.Repository.dll
+C:\Users\leona\Documents\Pessoal\OnionProjectHub\Backend\OnionProjectHub.Repository\obj\Debug\net8.0\refint\OnionProjectHub.Repository.dll
+C:\Users\leona\Documents\Pessoal\OnionProjectHub\Backend\OnionProjectHub.Repository\obj\Debug\net8.0\OnionProjectHub.Repository.pdb
+C:\Users\leona\Documents\Pessoal\OnionProjectHub\Backend\OnionProjectHub.Repository\obj\Debug\net8.0\OnionProjectHub.Repository.genruntimeconfig.cache
+C:\Users\leona\Documents\Pessoal\OnionProjectHub\Backend\OnionProjectHub.Repository\obj\Debug\net8.0\ref\OnionProjectHub.Repository.dll
