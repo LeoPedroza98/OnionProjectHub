@@ -14,24 +14,24 @@ Bem-vindo ao OnionProjectHub
 Para começar a usar o OnionProjectHub, siga os passos abaixo:
 
 1. **Clone o repositório:**
-   ```bash
-   git clone https://github.com/LeoPedroza98/OnionProjectHub.git
+      ```bash
+      git clone https://github.com/LeoPedroza98/OnionProjectHub.git
+      ```
 2. **Instale as dependências do front-end:**
-   ```bash
-    cd OnionProjectHub/FrontEnd
-    npm install
-   ````
+      ```bash
+       cd OnionProjectHub/FrontEnd
+       npm install
+      ```
 3. **Execute o aplicativo front-end**
-  ```bash
-   npm start
-````
-
+      ```bash
+      npm start
+      ```
 4. **Instale as dependências do back-end:**
-  ```bash
-   cd OnionProjectHub/BackEnd
-   dotnet restore
-  ````
+     ```bash
+      cd OnionProjectHub/BackEnd
+      dotnet restore
+     ```
 5. **Execute o aplicativo back-end**:
-  ```bash
-   dotnet run
-  ````
+     ```bash
+      dotnet run
+     ```
